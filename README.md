@@ -8,7 +8,7 @@ This repository contains the notebooks and environment setup used throughout the
 | Parameter                            | Value                                 |
 |--------------------------------------|---------------------------------------|
 | Jupyter Lab version                  | 4.0                                   |
-| Working Directory                    | /work/<group name>/<user name>       |
+| Working Directory                    | /work/groupname/username       |
 | Number of cores                      | 8                                     |
 | Running time in hours                | 3                                     |
 | Requested RAM in GBs                 | 32                                    |
